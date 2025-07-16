@@ -1,0 +1,6 @@
+streamlit
+xgboost
+scikit-learn
+tensorflow
+pandas
+joblib
